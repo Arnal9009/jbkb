@@ -1,0 +1,109 @@
+.P {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+}
+
+.title_green_h2 {
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 51px;
+
+    background: #B9FF66;
+    border-radius: 7px;
+    padding: 0px 7px;
+}
+
+.mr40 {
+    margin-right: 40px;
+}
+
+.servise_card {
+    padding: 50px;
+    display: flex;
+    gap: 77px;
+    border: 1px solid #191A23;
+    box-shadow: 0px 5px 0px #191A23;
+    border-radius: 45px;
+    width: 600px;
+}
+
+.bg_white {
+    background: #F3F3F3;
+}
+
+.bg_green {
+    background: #B9FF66;
+}
+
+.bg_dark {
+    background: #191A23;
+}
+
+.gp40 {
+    gap: 40px;
+}
+
+.title_green_h3 {
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 38px;
+    padding: 0px 7px;
+    background: #B9FF66;
+    border-radius: 7px;
+}
+
+.title_white_h3 {
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 38px;
+    padding: 0px 7px;
+    background: #FFF;
+    border-radius: 7px;
+}
+
+.title_card_black {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #000;
+}
+
+.title_card_white {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #fff;
+}
+
+.gp15 {
+    gap: 15px;
+}
+
+.gp93 {
+    display: flex;
+    flex-direction: column;
+    gap: 93px;
+}
+
+.p_white {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #fff;
+}
+
+.p_green {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #B9FF66;
+}
+
+.mt20 {
+    margin-top: 20px;
+}
+
+.mr15 {
+    margin-right: 15px;
+}
